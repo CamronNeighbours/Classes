@@ -1,0 +1,25 @@
+#home-container{ 
+    border:2px solid red;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#home-container div img{
+    width: 75px;
+    height: 75px;
+
+} 
+
+#home-container div{
+   width: 50%;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+margin-top: 1rem;
+
+}
